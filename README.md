@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Duncanwar
 - 👀 I’m interested in backend development with nodejs, express
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on reactjs
 - 📫 How to reach me nda.duncan@gmail.com
 
 <!---
